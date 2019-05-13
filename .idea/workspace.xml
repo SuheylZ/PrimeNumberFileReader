@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb137fb3-ef42-47a3-b1f4-2e49bc6d8f49" name="Default Changelist" comment="first iteration">
-      <change afterPath="$PROJECT_DIR$/Program/data/193.txt" afterDir="false" />
-    </list>
+    <list default="true" id="bb137fb3-ef42-47a3-b1f4-2e49bc6d8f49" name="Default Changelist" comment="first iteration" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/Program/target/" />
     <ignored path="Program/data/" />
@@ -64,7 +62,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="52" />
     <option name="y" value="72" />
     <option name="width" value="1498" />
@@ -163,10 +161,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="42" y="58" width="1198" height="703" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6718147" visible="true" weight="0.16276042" />
-      <window_info id="Structure" order="1" sideWeight="0.32818532" side_tool="true" visible="true" weight="0.16276042" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6710183" visible="true" weight="0.21114865" />
+      <window_info id="Structure" order="1" sideWeight="0.32898173" side_tool="true" visible="true" weight="0.21114865" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
@@ -177,9 +175,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49739584" visible="true" weight="0.26628897" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.4974662" visible="true" weight="0.32924694" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5026042" side_tool="true" visible="true" weight="0.26628897" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5025338" side_tool="true" visible="true" weight="0.32924694" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49239865" weight="0.3257443" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
